@@ -63,12 +63,20 @@
 Estructura del proyecto 📂
 
 amigo-secreto/
-├── index.html          # Archivo principal de la aplicación
-├── style.css           # Estilos CSS para la interfaz
-├── app.js              # Lógica de JavaScript para el sorteo
-├── assets/             # Carpeta de recursos (imágenes, íconos)
+
+├── **index.html**          # Archivo principal de la aplicación
+
+├── **style.css**           # Estilos CSS para la interfaz
+
+├── **app.js**              # Lógica de JavaScript para el sorteo
+
+├── **assets/**             # Carpeta de recursos (imágenes, íconos)
+
 │   ├── amigo-secreto.png
+
 │   ├── play_circle_outline.png
+
 │   └── reset.png
-└── README.md           # Este archivo
+
+└── **README.md**           # Este archivo
 
