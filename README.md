@@ -1,8 +1,8 @@
-# Amigo Secreto 🎁
+# SORTEO 🎁
 
 ![Logo de Amigo Secreto](assets/amigo-secreto.png)
 
-¡Bienvenido al proyecto **Sorteo del Amigo Secreto**! Esta es una aplicación web sencilla desarrollada por Gonzalo Benavides Ramírez en el Challenge de "One Oracle Next Education ®" y "Alura Latam ®", que te permite organizar un sorteo de amigos secretos. Con una interfaz intuitiva, puedes agregar nombres de participantes, realizar el sorteo y ver los resultados de emparejamientos aleatorios de manera clara y organizada.
+¡Bienvenido al proyecto **Sorteo del Amigo Secreto**! Esta es una aplicación web sencilla desarrollada por Gonzalo Benavides Ramírez en el Challenge de **"One Oracle Next Education ®"** y **"Alura Latam ®"**, que te permite organizar un sorteo de amigos secretos. Con una interfaz intuitiva, puedes agregar nombres de participantes, realizar el sorteo y ver los resultados de emparejamientos aleatorios de manera clara y organizada.
 
 ## Características principales 🌟
 
@@ -82,3 +82,20 @@ amigo-secreto/
 
 └── **README.md**           # Este archivo
 
+---
+
+## Cómo contribuir 🤝
+
+¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, sigue estos pasos:
+
+1. Haz un **fork** del repositorio.
+2. Crea una rama para tu contribución: `git checkout -b mi-contribucion`.
+3. Realiza tus cambios y haz commit: `git commit -m "Descripción de los cambios"`.
+4. Sube tus cambios: `git push origin mi-contribucion`.
+5. Abre un **Pull Request** en GitHub.
+
+---
+
+¡Gracias por usar **Sorteo del Amigo Secreto**! 🎉  
+Desarrollado por: [Gonzalo Benavides Ramírez].  
+📧 Contacto: [Lgbenavid@gmail.com]  
