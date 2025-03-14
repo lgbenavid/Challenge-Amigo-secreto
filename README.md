@@ -1,5 +1,7 @@
 # Amigo Secreto 🎁
 
+![Logo de Amigo Secreto](assets/amigo-secreto.png)
+
 ¡Bienvenido al proyecto **Sorteo del Amigo Secreto**! Esta es una aplicación web sencilla desarrollada por Gonzalo Benavides Ramírez en el Challenge de "One Oracle Next Education ®" y "Alura Latam ®", que te permite organizar un sorteo de amigos secretos. Con una interfaz intuitiva, puedes agregar nombres de participantes, realizar el sorteo y ver los resultados de emparejamientos aleatorios de manera clara y organizada.
 
 ## Características principales 🌟
