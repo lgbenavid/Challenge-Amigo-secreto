@@ -46,7 +46,7 @@
 
    Repite este paso para agregar todos los nombres.
 
-   Controla que el campo no este en blanco. 
+   Controla que el campo no este en blanco y que el nombre no este repetido.
 
 4. **Realiza el sorteo**:
 
@@ -62,9 +62,9 @@
 
    Si deseas realizar otro sorteo, haz clic en el botón **Reiniciar Sorteo** para limpiar la lista y los resultados.
 
-Estructura del proyecto 📂
+## Estructura del proyecto 📂
 
-amigo-secreto/
+**amigo-secreto/**
 
 ├── **index.html**          # Archivo principal de la aplicación
 
